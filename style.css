@@ -6,7 +6,7 @@ body{
 
 h2{
     text-align: center;
-    size: 32px;
+    size: 28px;
     color: #1F2937;
 }
 
@@ -26,6 +26,7 @@ h2{
     display: flex;
     background-color: #1f2937;
     align-items: center;
+    justify-content: space-between;
     padding-left: 10vw;
     padding-right: 10vw;
     padding-bottom: 50px;
@@ -74,8 +75,8 @@ h2{
 .cute-birds{
     display: flex;
     flex-wrap: wrap;
-    padding-left: 20vw;
-    padding-right: 20vw;
+    padding-left: 10vw;
+    padding-right: 10vw;
     background-color: white;
     color: #1F2937;
     align-items: center;
@@ -85,7 +86,7 @@ h2{
 .cute-birds-card{
     display: flex;
     flex-direction: column;
-    max-width: 30vh;
+    max-width: 30vw;
     min-width: 100px;
     text-align: center;
     margin: 25px;
@@ -119,9 +120,9 @@ h2{
 
 .nav-links {
     display: flex;
-    justify-content: space-around;
-    gap: 20px;
-    font-size: 18px;
+    justify-content: space-between;
+    width: 30vw;
+    font-size: 16px;
     color: #E5E7EB;
 }
 
@@ -132,8 +133,8 @@ h2{
 
 .signup{
     background-color: white;
-    padding-left: 20vw;
-    padding-right: 20vw;
+    padding-left: 10vw;
+    padding-right: 10vw;
 }
 
 .call-to-action{
