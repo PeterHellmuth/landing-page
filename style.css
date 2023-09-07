@@ -18,16 +18,16 @@ h2{
     color: white;
     margin: 0px;
     padding-bottom: 50px;
-    padding-left: 20vw;
-    padding-right: 20vw;
+    padding-left: 10vw;
+    padding-right: 10vw;
 }
 
 .hero-section{
     display: flex;
     background-color: #1f2937;
     align-items: center;
-    padding-left: 20vw;
-    padding-right: 20vw;
+    padding-left: 10vw;
+    padding-right: 10vw;
     padding-bottom: 50px;
     padding-top: 50px;
 }
@@ -85,7 +85,7 @@ h2{
 .cute-birds-card{
     display: flex;
     flex-direction: column;
-    max-width: 20vh;
+    max-width: 30vh;
     min-width: 100px;
     text-align: center;
     margin: 25px;
@@ -161,7 +161,7 @@ p{
     display: flex;
     margin-top: 50px;
     margin-bottom: 50px;
-    padding: 35px 150px;
+    padding: 35px 50px;
     justify-content: space-between;
     align-items: center;
     color: #E5E7EB;
